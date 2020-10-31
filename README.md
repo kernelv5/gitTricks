@@ -3,7 +3,7 @@
 ##### Remove the history from
     rm -rf .git`
 ##### Recreate the repos from the current content only
-git init
+    git init
     git add .
     git commit -m "Initial commit"
     git remote add origin git@github.com:kernelv5:Gr*******ub/BlockOne-Test.git
